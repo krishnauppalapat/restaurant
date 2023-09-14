@@ -1,2 +1,2 @@
 # restaurant
-sample restaurant
+sample restaurant hello
